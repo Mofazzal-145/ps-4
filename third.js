@@ -13,4 +13,5 @@ console.log('The subtraction is',sub);
 console.log('The multiplication is',mul);
 console.log('The division is ',div);
 
+// addtion, subtraction, multiplication, and division
 
